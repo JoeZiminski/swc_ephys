@@ -7,6 +7,7 @@ Here defaults related to the HPC system `spikewrap` is run on
     to SLURM batch script arguments. If passing new options in `slurm_batch`,
     the passed options are overriden but other defaults are maintained.
 """
+
 from typing import Dict
 
 
